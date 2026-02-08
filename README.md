@@ -110,7 +110,7 @@ You can install Ubuntu Linux Operating System and visual studio code IDE for wri
 
 - check out executables file in your system by running command
 
-'''bash
+```bash
 ls /bin
 ```
 
