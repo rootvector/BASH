@@ -84,7 +84,7 @@ You can install Ubuntu Linux Operating System and visual studio code IDE for wri
 
 
 |COMMANDS           |                       DESCRIPTION                                 |
-|:------------------|:-----------------------------------------------------------------:|
+|:------------------|:------------------------------------------------------------------|
 |`hostname`         |show the hostname                                                  |
 |`clear`            |clear the terminal window                                          |
 |`cat file.txt`     |print the file data                                                |
