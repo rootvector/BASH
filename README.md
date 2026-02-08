@@ -68,4 +68,14 @@ Terminal passes the typed command to shell, which understands them and tells the
 ### Enviroment Setup
 You can install Ubuntu Linux Operating System and visual studio code IDE for write bash script or you can use any text editor (nvim, nano, sublime, notepad,etc)
 
+---
+
+## Basic Commands
+
+`hostname`
+show the hostname
+
+`clear`
+use to clear the terminal screen
+
 
