@@ -34,6 +34,18 @@ mainly helps in transimission of commands.
 A command interpreter whose main purpose is to run other programs. converts the command into a *kernel-understandable* form and passes it to the kernel.
 Terminal passes the typed command to shell, which understands them and tells the kernel what to do.
 
+**Features of bash**
+
+- invoked by single-character and multi-character command line options like(-a, -b, -h, --help, --login).
+
+- Read and Execute Scripts.
+
+- Customized editing key sequence, *key binding*.
+
+- Directory Stack
+
+- Resticted mode (`rbash`).
+
 **Example of Linux Commands**
 |COMMANDS|DESCRIPTION|
 |:------|:---------|
@@ -45,6 +57,11 @@ Terminal passes the typed command to shell, which understands them and tells the
 |`cd ..`|change directory/ go one directory back|
 |`tree`|show the drive folder structure|
 
+### ***Prerequisites***
+> Basic of Linux/Unix enviroment!
 
+> Basic of terminal
+
+> Basic shell commands [Basic Commands](**example-of-linux-commands)
 
 
