@@ -1,6 +1,6 @@
 # BASH FOR BEGINNERS
 ### Bash for Beginners | Automation | Shell Scripting
-***-Reference: bittentech (bash1)***
+***- Reference: bittentech (bash1)***
 # **INDEX**
 ## TABLE OF CONTENT
 1. [Introduction](#introduction)
@@ -63,5 +63,9 @@ Terminal passes the typed command to shell, which understands them and tells the
 > Basic of terminal
 
 > Basic shell commands [Basic Commands](#shell)
+
+
+### Enviroment Setup
+You can install Ubuntu Linux Operating System and visual studio code IDE for write bash script or you can use any text editor (nvim, nano, sublime, notepad,etc)
 
 
