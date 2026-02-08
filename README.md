@@ -161,3 +161,4 @@ ls --help
 ```
 
 
+## Variables
