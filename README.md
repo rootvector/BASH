@@ -1,6 +1,6 @@
 # BASH FOR BEGINNERS
 ### Bash for Beginners | Automation | Shell Scripting
-* **-Reference: bittentech** *
+***-Reference: bittentech (bash1)***
 # **INDEX**
 ## TABLE OF CONTENT
 1. [Introduction](#introduction)
