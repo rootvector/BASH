@@ -1,2 +1,2 @@
-# BASH
-Bash for Beginners | Automation | Shell Scripting
+# BASH FOR BEGINNERS
+##Bash for Beginners | Automation | Shell Scripting
