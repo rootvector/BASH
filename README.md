@@ -182,3 +182,19 @@ echo "Hello, World!"
 
 
 ## Variables
+
+variable is a container that store a values like integers (int), characters (char), float (float), string (str), etc.
+the value can be a digit, boolean, or string.
+
+**syntax**
+
+`variable_name=value`
+
+**example `print_name.sh`**
+
+```bash
+name="rootvector"
+
+echo "My name is $name!"        # note you want to access variable value use $ sign before variable name.
+```
+
