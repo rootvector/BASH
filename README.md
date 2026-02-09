@@ -249,3 +249,17 @@ multi-line
 comment
 COMMENTS
 ```
+
+**Single `'` vs Double `"`**
+
+> Note: Use double `"` when you are printing a variable value. if you use single `'` that print the variable_name insted of variable value.
+
+*example*
+```bash
+name="rootvector"
+
+echo "This is printed in DOUBLE $name"
+
+echo 'This is printed in SINGLE $name'
+```
+
