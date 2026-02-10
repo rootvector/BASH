@@ -255,7 +255,7 @@ COMMENTS
 
 > Note: Use double `"` when you are printing a variable value. if you use single `'` that print the variable_name insted of variable value.
 
-*example `single_vs_double.sh*
+*example `singel_vs_double.sh`*
 ```bash
 name="rootvector"
 
@@ -377,5 +377,87 @@ this is a second argument second
 ---
 
 ## Conditional Statements
+
+conditional statements are used to compair values and perform a perticular operation on spesefic conditions.
+
+**conditional statements are,**
+
+`if and else`
+
+lets check out an example,
+
+`check_password.sh`
+
+```bash
+#!/bin/bash
+
+echo "Enter Your Possword: "
+read pass
+
+if [ $pass == "rootvector" ]; then
+    echo "Password was correct!"
+fi
+```
+
+Try to enter rootvector 
+
+
+**if-else example**
+
+`pass_else.sh`
+
+```bash
+echo "Enter a password: "
+read pass
+
+if [ $pass == "secret" ]; then
+    echo "Login Success!"
+
+else
+    echo "Login Unsuccess!"
+
+fi
+```
+
+*Comparision Switches**
+
+```bash
+-lt # less than
+-gt # greater than
+-le # lessthan equal
+-ge # greaterthen equal
+-ne # not equal
+-eq # equalto
+
+# example
+
+if [ 10 -le 9 ]; then 
+    echo "Number is less then 10"
+fi
+
+# other option replacement of bracket
+
+if test 10 -gt 15
+    echo "number is greather"
+fi
+```
+
+**if-elif example**
+
+```bash
+echo "Enter a number "
+read int
+
+if [ $int -le 100 ] && [ $int -gt 90 ]; then
+    echo "Grade A"
+
+elif [ $int -le 90 ] && [ $int -gt 80 ]; then
+    echo "Grade B"
+else
+    echo "Grade C"
+fi
+```
+
+
 
 
