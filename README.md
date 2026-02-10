@@ -458,6 +458,33 @@ else
 fi
 ```
 
+### Case Statement
 
+*syntax*
+
+```bash
+case expression in
+
+    pattern1)
+        commands
+        ;;              # break
+
+    pattern2|pattern3)
+        commands
+        ;;
+
+    *)                  # defualt
+        command
+        ;;
+esac
+```
+
+**check out example `case_condition.sh`**
+
+---
+
+## Loops
+
+loops are use to repeat a block of code for a several time. that runs a statement that in a loop block. that repeatedly runs and when a condition gets false then that loop will break.
 
 
