@@ -662,6 +662,8 @@ unset arr[1]
 
 unset arr
 
+```
+
 ---
 
 ## Functions
