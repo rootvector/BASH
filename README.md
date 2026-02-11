@@ -493,9 +493,10 @@ loops are use to repeat a block of code for a several time. that runs a statemen
 
 3. Until Loop
 
+
+
 1. For Loop
 
-**method 1**
 
 ```bash
 # syntax
